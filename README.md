@@ -1,41 +1,62 @@
-### Hi there, I am Josep Ferrer 👋
+# Hey, I'm Josep Ferrer 👋
 
-I am a Data Scientist and technical writer from Barcelona. I love working with data and firmly believe in AI's power to enhance people's lives. 
+**Data scientist & educator** based in Rotterdam. I make complex AI and data 
+concepts click — through diagrams, writing, interactive tools, and courses 
+for a global bilingual (EN/ES) audience.
 
-So... I want to share my passion with others and guide them into this vast field through writing and teaching. 
+> *"AI & data, clearly explained."* — [databites.tech](https://databites.tech)
 
-## **My Portfolio** 📊
+---
 
-[Go check my Portfolio](https://github.com/rfeers/data-science-portfolio) ✨👨🏻‍💻
+## 🌐 Find me online
 
+[![X](https://img.shields.io/badge/X-@iamjosepferrer-000000?style=flat&logo=x&logoColor=white)](https://x.com/iamjosepferrer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjosepferrer-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/iamjosepferrer)
+[![Substack](https://img.shields.io/badge/Newsletter-reads.databites.tech-FF6719?style=flat&logo=substack)](https://reads.databites.tech)
+[![Medium](https://img.shields.io/badge/Medium-@rfeers-000000?style=flat&logo=medium)](https://medium.com/@rfeers)
+[![Website](https://img.shields.io/badge/Website-databites.tech-2D9B4E?style=flat&logo=googlechrome&logoColor=white)](https://databites.tech)
 
-## **Connect with me** 🙋🏻‍♂️
+---
 
-| Media                | Brief Description                                              |
-|----------------------|------------------------------------------------------|
-| [DataBites](https://rfeers.substack.com/) 💌     | My data science & AI newsletter                      |
-| [Medium](https://medium.com/@rfeers) ✍🏻        | My data science blog |
-| [LinkedIn](https://www.linkedin.com/in/josep-ferrer-sanchez/), [X](https://twitter.com/rfeers),  [Threads ](https://www.threads.net/@rfeers)      | I share data cheatsheets about ML, Python, SQL and DataViz|
-| [Articles Repo](https://github.com/rfeers/My-Articles-Friendly-Links) 📝 |All the articles I have written for KDnuggets, MLM, Statology & DataCamp |
+## 🚀 What I build
 
-## Main Repositories & Projects:
+| | |
+|---|---|
+| **DataBites Learn** | Weekly diagrams, X threads, newsletter · 10k subscribers |
+| **DataBites Consult** | DataViz projects & data storytelling workshops |
+| **DataBites Teach** | University courses, online courses, speaking |
+| **DataBites Write** | Technical writing for data and AI companies |
 
-| Project                | Brief Description                                              |
-|----------------------|------------------------------------------------------|
-| [Data Science Portfolio](https://github.com/rfeers/data-science-portfolio)     | My data science portfolio |
-| [ML Basics](https://github.com/rfeers/ML-Basics)    | Summary of the most basic ML algorithms. |
-| [Webscraping](https://github.com/rfeers/webscraping)    | Webscraping projects.  |
-| [Python Projects](https://github.com/rfeers/python-projects)    | Basic projects to crush into python.  |
-| [Predicting Cars Usage in BCN](https://github.com/rfeers/PredictingCarparksUsageBCN)    | Final Master Thesis. Predicting BCN car usage within parkings near to train stations.    |
-| [Outpatient IPC signal](https://github.com/rfeers/Outpatient_IPGSignal_Monitoring)    | Final Bachelor Thesis. Generate a Matlab algorithm to track IPC signal.  |
-| [Teaspils Dashboard](https://github.com/rfeers/PredictingCarparksUsageBCN)    | Designing a human-centered dashboard. Research performed in UPF.  |
+---
 
-## Courses:
+## 🛠️ Tech stack
 
-| Project                | Brief Description                                              |
-|----------------------|------------------------------------------------------|
-| [SQL Crash Course](https://github.com/CornelliusYW/SQL-Crash-Course)     | A beginner-friendly course designed to help you quickly grasp SQL fundamentals and build a solid foundation. |
-| [Learn DS the smart way ](https://www.learndatascience.ai/spaces/10362739/content)     | A practical introduction to data science concepts, tools, and workflows—designed to get you started efficiently and effectively. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat&logo=maplibre&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=rfeers&label=Profile%20views&color=blue&style=flat-square)
+## 📊 GitHub stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamjosepferrer&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjosepferrer&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 📌 Currently
+- 🔬 Freelance Data Scientist @ **NECSTouR** (European project)
+- 🏢 Building **[DataBites](https://databites.tech)** — my own company for data & AI education, consulting and writing
+- 🗺️ Building **[Catalonia Income Atlas](https://projects.databites.tech)** — interactive socio-economic map
+- ✍️ Technical writer @ **Weights & Biases**, **DataCamp** & **ClicData**
+- 🎓 Associate Professor, Big Data Master @ **Universidad de Navarra**
+- 📬 Relaunching **[DataBites newsletter](https://reads.databites.tech)**
+---
+
+*Based in Rotterdam · Originally from Barcelona*
