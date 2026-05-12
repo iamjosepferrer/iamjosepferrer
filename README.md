@@ -13,7 +13,7 @@ for a global bilingual (EN/ES) audience.
 [![X](https://img.shields.io/badge/X-@iamjosepferrer-000000?style=flat&logo=x&logoColor=white)](https://x.com/iamjosepferrer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjosepferrer-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/iamjosepferrer)
 [![Substack](https://img.shields.io/badge/Newsletter-reads.databites.tech-FF6719?style=flat&logo=substack)](https://reads.databites.tech)
-[![Medium](https://img.shields.io/badge/Medium-@rfeers-000000?style=flat&logo=medium)](https://medium.com/@rfeers)
+[![Medium](https://img.shields.io/badge/Medium-@rfeers-000000?style=flat&logo=medium)](https://medium.com/@iamjosepferrer)
 [![Website](https://img.shields.io/badge/Website-databites.tech-2D9B4E?style=flat&logo=googlechrome&logoColor=white)](https://databites.tech)
 
 ---
@@ -45,13 +45,6 @@ for a global bilingual (EN/ES) audience.
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)
 
 ---
-
-## 📊 GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamjosepferrer&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjosepferrer&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
-</p>
 
 ## 📌 Currently
 - 🔬 Freelance Data Scientist @ **NECSTouR** (European project)
